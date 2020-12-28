@@ -45,7 +45,7 @@ All AFM devices have the ability to test packets through the collection of AFM f
 Comparing Packet Traces Across Multiple Devices
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-#. Under *Monitoring* > *Security* > *Network Security*, click *Packet Traces*
+#. Under *Monitoring* > *Reports* > *Security* > *Network Security*, click *Packet Traces*
 #. Click the *Create* button in the Packet Traces list
 #. Edit the *Packet Parameters* as follows:
    - Name: ``packet_136_2``
