@@ -337,7 +337,7 @@ To connect to a docker instance: ``docker exec -i -t <container id or name> /bin
 | `Splunk`_              | - ip:port 10.1.1.5:8000 https            |
 |                        | - HTTP Event Data Collector port 8088    |
 +------------------------+------------------------------------------+
-| `Locust`_              | - ip:port 10.1.1.5:7089 http             |
+| `Locust`_              | - ip:port 10.1.1.5:8089 http             |
 +------------------------+------------------------------------------+
 | Samba                  | - ip:port 10.1.1.5:445                   |
 |                        | - User: f5student/purple123              |
